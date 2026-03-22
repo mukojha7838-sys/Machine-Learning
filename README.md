@@ -45,7 +45,7 @@ Machine Learning | Deep Learning | LLM Integration | RAG Pipelines
 - Models: Logistic Regression, Decision Tree, Random Forest
 - Best F1 Score: 0.60
 
-### 3. Customer Churn Prediction *(In Progress)*
+### 3. Customer Churn Prediction 
 - Dataset: Telco Customer Churn (Kaggle)
 
 ---
